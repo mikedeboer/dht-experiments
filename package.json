@@ -1,0 +1,8 @@
+{
+  "name": "dht-experiments",
+  "description": "Repo that holds my DHT experiments",
+  "author": "Mike de Boer <info@mikedeboer.nl>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {}
+}
