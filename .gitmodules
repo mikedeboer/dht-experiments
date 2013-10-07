@@ -4,3 +4,9 @@
 [submodule "node_modules/discover"]
 	path = node_modules/discover
 	url = git@github.com:mikedeboer/node-discover.git
+[submodule "node_modules/discover-tcp-transport"]
+	path = node_modules/discover-tcp-transport
+	url = git@github.com:mikedeboer/node-discover-tcp-transport.git
+[submodule "node_modules/k-bucket"]
+	path = node_modules/k-bucket
+	url = git@github.com:mikedeboer/node-k-bucket.git
