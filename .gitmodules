@@ -1,3 +1,6 @@
 [submodule "node_modules/kadoh"]
 	path = node_modules/kadoh
 	url = https://github.com/jinroh/kadoh.git
+[submodule "node_modules/discover"]
+	path = node_modules/discover
+	url = git@github.com:mikedeboer/node-discover.git
